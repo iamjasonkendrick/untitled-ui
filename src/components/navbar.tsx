@@ -1,14 +1,9 @@
 import { Link } from 'react-router-dom'
 import { LogoWithText } from './logo'
-import { ThemeToggle } from './theme-toggle'
 import { Avatar, AvatarFallback, AvatarImage } from './ui/avatar'
-import { Button } from './ui/button'
 import {
   Drawer,
-  DrawerClose,
   DrawerContent,
-  DrawerDescription,
-  DrawerFooter,
   DrawerHeader,
   DrawerTitle,
   DrawerTrigger,

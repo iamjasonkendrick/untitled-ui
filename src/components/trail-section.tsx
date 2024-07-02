@@ -1,4 +1,3 @@
-import { Avatar } from './ui/avatar'
 import { Button } from './ui/button'
 
 export default function Trail() {
