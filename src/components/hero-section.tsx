@@ -42,7 +42,7 @@ export default function HeroSection() {
           </Button>
         </div>
         <img
-          src='../../public/hero-image.png'
+          src='../../public/static/images/hero-image.png'
           alt='Hero Section Image'
           className='w-full h-auto rounded-t-2xl sm:rounded-t-3xl border-4 sm:border-8 border-zinc-800 border-b-0'
         />
