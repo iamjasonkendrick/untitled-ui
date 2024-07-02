@@ -44,7 +44,7 @@ export default function HeroSection() {
         <img
           src='/static/images/hero-image.png'
           alt='Hero Section Image'
-          className='w-full h-auto rounded-t-2xl sm:rounded-t-3xl border-4 sm:border-8 border-zinc-800 border-b-0'
+          className='w-full h-auto rounded-t-2xl sm:rounded-t-3xl border-4 sm:border-8 border-zinc-800 border-bottom-none'
         />
         <div className='my-16 sm:my-24 lg:my-32'>
           <p className='text-sm sm:text-base'>

@@ -23,7 +23,7 @@ export default function BlogSection() {
       <div className='grid grid-cols-1 md:grid-cols-3 gap-6'>
         <Card>
           <img
-            src='../../public/blog-1.png'
+            src='/static/images/blog-1.png'
             alt='UX review presentations'
             className='w-full h-48 object-cover'
           />
@@ -52,7 +52,7 @@ export default function BlogSection() {
         </Card>
         <Card>
           <img
-            src='../../public/blog-2.png'
+            src='/static/images/blog-2.png'
             alt='Migrating to Linear 101'
             className='w-full h-48 object-cover'
           />
@@ -81,7 +81,7 @@ export default function BlogSection() {
         </Card>
         <Card>
           <img
-            src='../../public/blog-3.png'
+            src='/static/images/blog-3.png'
             alt='Building your API stack'
             className='w-full h-48 object-cover'
           />

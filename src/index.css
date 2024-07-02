@@ -53,6 +53,10 @@
   }
 }
 
+.border-bottom-none {
+  border-bottom: none !important;
+}
+
 .loader {
   position: relative;
   width: 54px;

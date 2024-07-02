@@ -90,7 +90,7 @@ export default function Features() {
             startups.
           </p>
           <img
-            src='../../public/feature-image.png'
+            src='/static/images/feature-image.png'
             alt='Feature Section Image'
             className='border-4 sm:border-8 rounded-2xl sm:rounded-3xl border-zinc-800 mt-6 sm:mt-8'
           />
