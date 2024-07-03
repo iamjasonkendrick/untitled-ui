@@ -31,14 +31,14 @@ export default function BlogSection() {
             <Badge variant='default' className='bg-violet-700 text-white'>
               Design
             </Badge>
-            <h3 className='text-lg font-semibold mt-2'>
+            <h3 className='text-lg font-semibold my-4'>
               UX review presentations
             </h3>
-            <p className='text-muted-foreground mt-1'>
+            <p className='text-muted-foreground mt-1 text-sm'>
               How do you create compelling presentations that wow your
               colleagues and impress your managers?
             </p>
-            <div className='flex items-center mt-4'>
+            <div className='flex items-center mt-8'>
               <Avatar>
                 <AvatarImage src='	https://xsgames.co/randomusers/avatar.php?g=female' />
                 <AvatarFallback>OR</AvatarFallback>
@@ -60,14 +60,14 @@ export default function BlogSection() {
             <Badge variant='default' className='bg-violet-700 text-white'>
               Product
             </Badge>
-            <h3 className='text-lg font-semibold mt-2'>
+            <h3 className='text-lg font-semibold my-4'>
               Migrating to Linear 101
             </h3>
-            <p className='text-muted-foreground mt-1'>
+            <p className='text-muted-foreground mt-1 text-sm'>
               Linear helps streamline software projects, sprints, tasks, and bug
               tracking. Here's how to get started.
             </p>
-            <div className='flex items-center mt-4'>
+            <div className='flex items-center mt-8'>
               <Avatar>
                 <AvatarImage src='	https://xsgames.co/randomusers/avatar.php?g=male' />
                 <AvatarFallback>PB</AvatarFallback>
@@ -89,14 +89,14 @@ export default function BlogSection() {
             <Badge variant='default' className='bg-violet-700 text-white'>
               Software Engineering
             </Badge>
-            <h3 className='text-lg font-semibold mt-2'>
+            <h3 className='text-lg font-semibold my-4'>
               Building your API stack
             </h3>
-            <p className='text-muted-foreground mt-1'>
+            <p className='text-muted-foreground mt-1 text-sm'>
               The rise of RESTful APIs has been met by a rise in tools for
               creating, testing, and managing them.
             </p>
-            <div className='flex items-center mt-4'>
+            <div className='flex items-center mt-8'>
               <Avatar>
                 <AvatarImage src='https://xsgames.co/randomusers/avatar.php?g=female' />
                 <AvatarFallback>LS</AvatarFallback>
