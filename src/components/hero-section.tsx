@@ -50,8 +50,8 @@ export default function HeroSection() {
           <p className='text-sm sm:text-base'>
             Join 4,000+ companies already growing
           </p>
-          <div className='grid grid-cols-2 sm:flex sm:flex-wrap justify-center gap-6 sm:gap-8 lg:gap-12 mt-6 sm:mt-8 lg:mt-10'>
-            <BoltShift />
+          <div className='grid grid-cols-2 sm:flex sm:flex-wrap justify-center gap-6 sm:gap-8 mt-6 sm:mt-8 lg:mt-10'>
+            <BoltShift width={150} height={`auto`} />
             <LightBox />
             <FeatherDev />
             <Spherule />
